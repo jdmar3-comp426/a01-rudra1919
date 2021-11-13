@@ -4,9 +4,10 @@ body {
 
 h1 {
     font-family: verdana;
-    color: orange;
+    color: #ffa500;
 }
 
 h2 {
-    font-family: serif;
+    font-family: sans-serif;
+    background-color: #00008b;
 }
