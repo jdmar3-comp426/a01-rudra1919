@@ -26,3 +26,16 @@ a {
 p.dotted {
     border-style: dotted;
 }
+blockquote {
+    font-family: verdana;
+    color: #ffa500;
+}
+div {
+    font-family: verdana;
+    color: #ffa500;
+}
+p2 {
+    font-family: verdana;
+    color: #ffa500;
+}
+
