@@ -11,3 +11,6 @@ h2 {
     font-family: sans-serif;
     background-color: #00008b;
 }
+p.dotted {
+    border-style: dotted;
+}
