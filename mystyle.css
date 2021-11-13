@@ -11,6 +11,18 @@ h2 {
     font-family: sans-serif;
     background-color: #00008b;
 }
+b {
+    font-family: verdana;
+    color: #ffa500;
+}
+li {
+    font-family: verdana;
+    color: #ffa500;
+}
+a {
+    font-family: verdana;
+    color: #ffa500;
+}
 p.dotted {
     border-style: dotted;
 }
