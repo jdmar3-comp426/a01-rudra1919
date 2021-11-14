@@ -19,7 +19,7 @@ li {
     font-family: verdana;
     color: #ffa500;
 }
-a {
+a:link {
     font-family: verdana;
     color: #ffa500;
 }
