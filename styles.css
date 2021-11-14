@@ -41,3 +41,6 @@ p {
 #first {
     color: #fa5401
 }
+a:hover {
+    color: #00ff01
+}
