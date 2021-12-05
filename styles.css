@@ -1,0 +1,48 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-family: verdana;
+    color: #ffa500;
+}
+
+h2 {
+    font-family: sans-serif;
+    background-color: #00008b;
+}
+b {
+    font-family: verdana;
+    color: #ffa500;
+}
+li {
+    font-family: verdana;
+    color: #ffa500;
+}
+a {
+    font-family: verdana;
+    color: #ffa500;
+}
+p.dotted {
+    border-style: dotted;
+}
+blockquote {
+    font-family: verdana;
+    color: #ffa500;
+}
+div {
+    height: 200px;
+    width: 50%;
+    font-family: verdana;
+    color: #ffa500;
+}
+p {
+    font-family: verdana;
+    color: #ffa500;
+}
+#first {
+    color: #fa5401
+}
+a:hover {
+    color: #00ff01
+}
